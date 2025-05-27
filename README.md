@@ -9,8 +9,8 @@ Schuler, K.D. & Chen**, Y. (under review) The role of frequency and optionality 
 
 ## 📁 Contents 
 
-- `data_anonymized.csv` - CSV file contining experiment data
 - `analysis.ipynb` - analysis notebook
+- `data_anonymized.csv` - CSV file contining experiment data
 - `README.md` - repository overview
 
 ## 📋 Codebook 
